@@ -11,4 +11,4 @@ value was chosen on purpose as any higher results in an image that is not very u
 One last thing I would have added was some background music to set an apocolyptic mood!
 
 Final Paragraph: I was unable to get feedback due to the end of the term. I would say that I hit most of my expectations. However I wish I could have implemented some
-wave forms from my Assignment 1 as well as implementing noise into the project.
+wave forms from my Assignment 1 as well as implementing noise into the those wave forms.
