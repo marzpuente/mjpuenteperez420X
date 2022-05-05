@@ -1,0 +1,21 @@
+I decided to go with what was fresh in my mind and find a way to merge multiple assignments together into the final thing! I implemented features from Assignment 1,2 and 4.
+
+This sandbox experience features multiple forms of interaction. Users are able to edit a set of variables and presets to their liking, as well as interact with the
+simulation directly in their webcam. It is very fun to push around and break up blobs in the simulation.
+
+I would say I spent most of my time testing features and different presets in order to find the right atmosphere for the experience. I tried many different types of
+music, physarum presets, and interaction models.
+
+Some key features Im proud of:
+
+1. Music player, adds christmas music to the atmosphere of the sandbox. I originally wanted to go with a song named Computer Love by Zapp. I was hoping to get the color of the
+agents to change according to the music. Unfortunately, I could not figure out how to change the color selector dynamically in tweakpane.
+
+2. Physarum simulation, From Assignment 4, this simulation was easy to understand and bend to my will. One thing I wish I could have done was add a gravity effect
+that would help solidfy the christmas atmosphere.
+
+3. Webcam integration, I was able to successfully import the RGB video data alongside physarum. This resulted in some very interesting interactions between the user
+and the simulation.
+
+4. Tweakpane options menu with folder, I added the same tweakpane from A4 however I improved the UI by adding a folder and hiding the presets. I hid the presents
+because I felt that playing with the sliders resulted in an more interesting experience.
