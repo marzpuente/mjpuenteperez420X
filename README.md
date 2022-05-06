@@ -5,4 +5,8 @@ Repository for my 420X assignments
 
 -Assignment 2: [project](https://marzpuente.github.io/mjpuenteperez420X/A2/a2.html), [code](Assignment2/a2.html), [explain](Assignment2/readme.md)
 
--Assignment 4: [project](https://marzpuente.github.io/mjpuenteperez420X/FinalProject/FinalProject.html), [video](https://youtu.be/rW_KYxPlIdQ) [code](FinalProject/FinalProject.html), [explain](FinalProject/readme.md)
+-Assignment 4:  [project](https://marzpuente.github.io/mjpuenteperez420X/Assignment4/Assignment4.html), [code](Assignment4/Assignment4.html), [explain](Assignment4/readme.md)
+
+-Final Project: [project](https://marzpuente.github.io/mjpuenteperez420X/FinalProject/FinalProject.html), [video](https://youtu.be/rW_KYxPlIdQ) [code](FinalProject/FinalProject.html), [explain](FinalProject/readme.md)
+
+
